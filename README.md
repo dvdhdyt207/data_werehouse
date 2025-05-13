@@ -74,7 +74,7 @@ The dashboard includes:
 ## 📝 Notes
 
 - Ensure date formats in source data are consistent with `dim_time` structure
-- Verify data type compatibility between foreign keys to avoid errors in fact table creation (e.g., `VARCHAR(8)` for `order_date` if `date_key` is also `VARCHAR(8)`)
+- Verify data type compatibility between foreign keys to avoid errors in fact table creation (e.g., `VARCHAR(10)` for `order_date` if `date_key` is also `VARCHAR(8)`)
 
 ---
 
