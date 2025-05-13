@@ -63,27 +63,6 @@ The dashboard includes:
 
 ---
 
-## 📁 Folder Structure (optional)
-
-```bash
-SuperstoreDW/
-├── data/
-│   └── superstore_orders.csv
-├── pentaho/
-│   ├── dim_customer.ktr
-│   ├── dim_time.ktr
-│   ├── fact_order.ktr
-│   └── main_job.kjb
-├── sql/
-│   ├── create_tables.sql
-│   └── insert_sample.sql
-├── powerbi/
-│   └── dashboard.pbix
-└── README.md
-```
-
----
-
 ## ⚙️ How to Run This Project
 
 1. **Import Data**: Ensure MySQL is running, then run `create_tables.sql`
@@ -101,7 +80,7 @@ SuperstoreDW/
 
 ## 👤 Author
 
-**Name**: [Your Name]  
-**Email**: [Your Email]  
-**Major**: Computer Science / Information Systems  
+**Name**: [Devid Hidayat]  
+**Email**: [devidhidayat31@gmail.com]  
+**Major**: Computer Science
 **Topic**: Data Warehouse and Business Intelligence
